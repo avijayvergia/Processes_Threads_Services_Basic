@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultiThreading_ASyncTask</string>
+    <string-array name="url_invisible">
+        <item>http://cdn.macrumors.com/article-new/2015/04/elcapitansplitview.jpg</item>
+        <item>http://cdn.osxdaily.com/wp-content/uploads/2015/05/san-francisco-font-in-osx.jpg</item>
+        <item>http://www.technobuffalo.com/wp-content/uploads/2015/05/iPhone-6-Plus-Space-Gray-2-630x421.jpg</item>
+        <item>http://cdn.downloadios7.org/wp-content/uploads/ios-9-iphoen-6-download3_iphone-7.png</item>
+        <item>http://i-cdn.phonearena.com/images/articles/166138-image/Samsung-Galaxy-S6-renders-showing-what-the-phone-might-look-like.jpg</item>
+    </string-array>
+    <string-array name="url">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+    </string-array>
+</resources>
